@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Text Editor</string>
+    <string name="center">Center</string>
+    <string name="right">Right</string>
+    <string name="left">Left</string>
+    <string name="no_formating">No Formating</string>
+    <string name="underline">Underline</string>
+    <string name="italic">Italic</string>
+    <string name="bold">Bold</string>
+    <string name="type_text_here">Type text here...</string>
+</resources>
